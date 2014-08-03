@@ -10,3 +10,4 @@ markdown:     rdiscount
 permalink:    pretty
 pygments:     true
 paginate:     5
+baseurl:      /rails-i18n.org
