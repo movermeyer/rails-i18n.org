@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Christopher Dell // tigrish
+title: Christopher Dell
 github_url: https://github.com/tigrish
 profile_image: https://avatars2.githubusercontent.com/u/37666
 ---
