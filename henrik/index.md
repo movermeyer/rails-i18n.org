@@ -17,7 +17,7 @@ I've contributed [some minor fixes](https://github.com/svenfuchs/rails-i18n/comm
 
 **3) What made you go into I18n in the first place?**
 
-While it *was* my employer's needs that made me start working with i18n, I've definitely taken a larger interest in it than my co-workers have.
+While it was my employer's needs that made me start working with i18n, I've definitely taken a larger interest in it than my co-workers have.
 
 I guess it helped that I studied linguistics at university and have a degree in computational linguistics. I love language, especially quirks of grammar.
 

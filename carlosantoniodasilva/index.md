@@ -24,7 +24,7 @@ My real contact with I18n internals other than messing around was developing a p
 
 **Let's say I'm a completely new developer just getting into I18n for the very first time. I've read the docs, and I'm ready to roll. What surprises will I encounter, still? What are some of the common pitfalls people stumble on?**
 
-One document I'd definitely recommend newcomers to read is the I18n Rails guide (http://guides.rubyonrails.org/i18n.html), it contains lots of useful information about the APIs Rails provides for internationalization. It's super important not to be caught up doing manual work that Rails can do for you, for example: automatic translation of mailer subjects, so learning about these APIs is a great start.
+One document I'd definitely recommend newcomers to read is the [I18n Rails guide](http://guides.rubyonrails.org/i18n.html), it contains lots of useful information about the APIs Rails provides for internationalization. It's super important not to be caught up doing manual work that Rails can do for you, for example: automatic translation of mailer subjects, so learning about these APIs is a great start.
 
 Something to keep in mind is how to add HTML to your translations: make sure you never call "raw" or "html_safe" directly on translations that could receive an interpolated user argument, or you might be opening a security hole in your app; use *_html keys in I18n so that Rails will cover you by properly escaping the arguments. There's an example about that on the I18n guide linked above.
 
