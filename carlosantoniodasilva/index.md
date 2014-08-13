@@ -5,12 +5,12 @@ github_url: https://github.com/carlosantoniodasilva
 profile_image: https://avatars2.githubusercontent.com/u/26328
 ---
 
-**Who are you, and what do you do?**
+**1) Who are you, and what do you do?**
 
 My name is Carlos Antonio, I'm currently working at Plataformatec as a Software Developer, and I'm part of the Rails Core Team.
 
 
-**What's your involvement and background with Rails I18n?**
+**2) What's your involvement and background with Rails I18n?**
 
 
 I've been working with Ruby on Rails for around 6~7 years, and I've participated in many different projects, from "rails new" to completely legacy ones. Probably most of them are somehow related to Brazilian companies, which means they generally needed some sort of I18n integration, for displaying texts, error messages, numeric formats, and so on, both for input and output values.
@@ -18,11 +18,11 @@ I've been working with Ruby on Rails for around 6~7 years, and I've participated
 I think I could say I've been a good I18n user for most applications I've worked with, and that's probably gonna stay like that as more and more applications need to be translated to different languages. This also led me to want to work and improve the library and its integration with Rails, to make sure it'll continue be maintained and useful for everyone as it's been for me.
 
 
-**What made you go into I18n in the first place?**
+**3) What made you go into I18n in the first place?**
 
 My real contact with I18n internals other than messing around was developing a personal project, [I18n Alchemy](https://github.com/carlosantoniodasilva/i18n_alchemy), which is a small library to receive translated input and convert it to a Ruby format that could be properly handled by Active Record / pure Ruby objects. I started this project back in 2011 as part of the [Ruby Mendicant University](http://mendicantuniversity.org/)  (which now dropped "Ruby" from its name), a project started by Gregory Brown that used to run some classes for improving your Ruby and development skills. It was very challenging for me at that time and I'm still using and maintaining the library.
 
-**Let's say I'm a completely new developer just getting into I18n for the very first time. I've read the docs, and I'm ready to roll. What surprises will I encounter, still? What are some of the common pitfalls people stumble on?**
+**4) Let's say I'm a completely new developer just getting into I18n for the very first time. I've read the docs, and I'm ready to roll. What surprises will I encounter, still? What are some of the common pitfalls people stumble on?**
 
 One document I'd definitely recommend newcomers to read is the [I18n Rails guide](http://guides.rubyonrails.org/i18n.html), it contains lots of useful information about the APIs Rails provides for internationalization. It's super important not to be caught up doing manual work that Rails can do for you, for example: automatic translation of mailer subjects, so learning about these APIs is a great start.
 
