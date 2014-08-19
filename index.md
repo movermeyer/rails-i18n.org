@@ -22,5 +22,6 @@ Project maintainer
   <ul><a href="{{ site.baseurl }}/tigrish/">Christopher Dell</a></ul>
   <ul><a href="{{ site.baseurl }}/glebm/">Gleb Mazovetskiy</a></ul>
   <ul><a href="{{ site.baseurl }}/henrik/">Henrik Nyh</a></ul>
+  <ul><a class="more" href="{{ site.baseurl }}/more/">and more…</a></ul>
 </li>
 </div>
