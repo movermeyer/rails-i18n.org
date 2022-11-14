@@ -18,10 +18,10 @@ Project maintainer
 <div class="toc">
 <h2>Interviews</h2>
 <li>
-  <ul><a href="{{ site.baseurl }}/carlosantoniodasilva/">Carlos Antonio da Silva</a></ul>
-  <ul><a href="{{ site.baseurl }}/tigrish/">Christopher Dell</a></ul>
-  <ul><a href="{{ site.baseurl }}/glebm/">Gleb Mazovetskiy</a></ul>
-  <ul><a href="{{ site.baseurl }}/henrik/">Henrik Nyh</a></ul>
-  <ul><a class="more" href="{{ site.baseurl }}/more/">and more…</a></ul>
+  <ul><a href="carlosantoniodasilva">Carlos Antonio da Silva</a></ul>
+  <ul><a href="tigrish">Christopher Dell</a></ul>
+  <ul><a href="glebm">Gleb Mazovetskiy</a></ul>
+  <ul><a href="henrik">Henrik Nyh</a></ul>
+  <ul><a class="more" href="more">and more…</a></ul>
 </li>
 </div>
